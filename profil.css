@@ -1,0 +1,83 @@
+/*profil.css*/
+
+body {
+    background-color: rgb(255, 255, 179);
+    font-family: kodchasan, sans-serif;
+    font-size: 17px;
+    color: rgb(198, 83, 140);
+}
+#logo {
+    width: 300px;
+    position: relative;
+    left: 10%;
+    top: 10px;
+}
+#titre {
+    position: absolute;
+    left: 40%;
+    top: 80px;
+}
+h1{
+    font-family: Dancing Script, fantasy;
+    color: rgb(95, 158, 160);
+    font-size: 60px;
+    line-height: 10px;
+}
+h3 {
+    font-family: gloria hallelujah, sans-serif;
+    text-align: center;
+    color: rgb(95, 158, 160);
+    font-size: 25px;
+    line-height: 2px;
+}
+h5 {
+    font-family: exo, sans-serif;
+    text-align: center;
+    color: rgb(153, 187, 255);
+    font-size: 20px;
+    line-height: 5px;
+    margin: 50px;
+}
+#description {
+    position: absolute;
+    left: 10%;
+    top: 260px;
+    text-align: center;
+}
+#manga {
+    border: dashed 5px cadetblue;
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+    top: 400px;
+    width: 25%;
+    height: 250px;
+}
+#jeuxvideo {
+    border: dashed 5px cadetblue;
+    display: inline;
+    position: absolute;
+    left: 35%;
+    top: 400px;
+    width: 25%;
+    height: 250px;
+}
+#series {
+    border: dashed 5px cadetblue;
+    display: inline;
+    position: absolute;
+    left: 65%;
+    top: 400px;
+    width: 25%;
+    height: 250px;
+}
+
+#rs {
+    position: absolute;
+    left: 35%;
+    top: 700px;
+}
+.imgrs {
+    width: 50px;
+    height: 50px;
+}
