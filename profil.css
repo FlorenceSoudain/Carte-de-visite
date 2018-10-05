@@ -22,6 +22,7 @@ h1{
     color: rgb(95, 158, 160);
     font-size: 60px;
     line-height: 10px;
+    text-shadow: rgb(153, 187, 255) 1px 0 10px;
 }
 h3 {
     font-family: gloria hallelujah, sans-serif;
